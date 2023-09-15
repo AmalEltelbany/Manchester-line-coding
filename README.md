@@ -2,23 +2,28 @@
 . We take the data (binary) and create NRZ code polar signal then convert it to Manchester code. By 2 methods multisim and MATLAB
    ## a. Encoding
    
-    ![photo_2023-09-15_15-06-50](https://github.com/AmalEltelbany/Manchester-line-coding/assets/112574745/e31d01d4-20a5-4ca3-94cb-5c6d6c76ae28)
+  ![photo_2023-09-15_15-06-50](https://github.com/AmalEltelbany/Manchester-line-coding/assets/112574745/6f2c4b72-cf36-4735-a380-1297a0efb38e)
+
     
    ## Output:
     
-    ![photo_2023-09-15_15-08-01](https://github.com/AmalEltelbany/Manchester-line-coding/assets/112574745/b1837571-f9ca-419b-a826-65ac4733a093)
+    ![photo_2023-09-15_15-08-01](https://github.com/AmalEltelbany/Manchester-line-coding/assets/112574745/0c63889d-15d7-43d7-91c5-cc6663640b97)
+
     
    ## b. Decoding
    
-    ![photo_2023-09-15_15-08-36](https://github.com/AmalEltelbany/Manchester-line-coding/assets/112574745/0a30aaf4-8785-47c0-ac75-20921818d5f4)
+   ![photo_2023-09-15_15-08-36](https://github.com/AmalEltelbany/Manchester-line-coding/assets/112574745/e7892592-1bca-4bca-933e-de47eff53a5f)
+
     
    ## Output: 
-   
-    ![photo_2023-09-15_15-09-16](https://github.com/AmalEltelbany/Manchester-line-coding/assets/112574745/b3137add-bfdd-413a-b3c7-23c01810c904)
+
+   ![photo_2023-09-15_15-09-16](https://github.com/AmalEltelbany/Manchester-line-coding/assets/112574745/6a3526ee-8ee6-48a7-a3e8-b1d8537874fd)
+
     
    ## Matlab part: 
 
-    ![photo_2023-09-15_15-10-05](https://github.com/AmalEltelbany/Manchester-line-coding/assets/112574745/71934336-5415-412a-85ab-8f23b18ceef7)
+   ![photo_2023-09-15_15-10-05](https://github.com/AmalEltelbany/Manchester-line-coding/assets/112574745/017c0986-4692-4e29-9a49-93cb6b08cd5e)
+
 
 
 
