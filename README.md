@@ -7,7 +7,7 @@
     
    ## Output:
     
-    ![photo_2023-09-15_15-08-01](https://github.com/AmalEltelbany/Manchester-line-coding/assets/112574745/0c63889d-15d7-43d7-91c5-cc6663640b97)
+![photo_2023-09-15_15-08-01](https://github.com/AmalEltelbany/Manchester-line-coding/assets/112574745/b2f2c33e-e458-471c-bf66-3890b1b5ffbb)
 
     
    ## b. Decoding
